@@ -67,20 +67,25 @@ plt.show()
 ```
 
 ## Output:
-Contents in the data file (head, tail):
+## Contents in the data file (head, tail):
 ![Screenshot 2024-08-17 205605](https://github.com/user-attachments/assets/3ad5ed58-0065-4e57-9a00-024277758f05)
 
-X and Y datasets from original dataset:
+
+## X and Y datasets from original dataset:
 ![Screenshot 2024-08-17 205646](https://github.com/user-attachments/assets/000a0ee0-b2aa-4398-a56b-75c2095bc241)
 
-Predicted and Test values of Y:
+
+## Predicted and Test values of Y:
 ![Screenshot 2024-08-17 205710](https://github.com/user-attachments/assets/d2a852a2-8402-49fd-ac25-935769facc36)
 
-Graph for Training Data:
+
+## Graph for Training Data:
 ![Screenshot 2024-08-17 205733](https://github.com/user-attachments/assets/f13752f3-ad2b-4ccd-9d2c-6d4e342aae48)
 
-Graph for Test Data:
+
+## Graph for Test Data:
 ![Screenshot 2024-08-17 205758](https://github.com/user-attachments/assets/95215c63-fb67-4242-b281-02188acde5e9)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
